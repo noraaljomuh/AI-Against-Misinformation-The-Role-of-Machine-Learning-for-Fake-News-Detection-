@@ -43,18 +43,6 @@ The system analyzes news article text and predicts whether it is **fake** or **r
 
 ---
 
-## 📊 Results
-
-| Model               | Accuracy  | Precision | Recall | F1 Score |
-| ------------------- | --------- | --------- | ------ | -------- |
-| Logistic Regression | **99.5%** | 0.99      | 0.99   | 0.99     |
-| Decision Tree       | 99.3%     | 0.99      | 0.99   | 0.99     |
-| Random Forest       | 99.3%     | 0.99      | 0.99   | 0.99     |
-| Gradient Boosting   | 99.3%     | 0.99      | 0.99   | 0.99     |
-| KNN                 | 84.3%     | 0.86      | 0.84   | 0.84     |
-
----
-
 ## Acknowledgements
 We would like to express our sincere gratitude to our course instructor for ARTI406 – Machine Learning, for their invaluable guidance, constructive feedback, and continuous support throughout the development of this project.
 
