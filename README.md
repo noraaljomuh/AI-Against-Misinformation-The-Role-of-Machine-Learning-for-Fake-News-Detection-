@@ -53,3 +53,11 @@ The system analyzes news article text and predicts whether it is **fake** or **r
 | Gradient Boosting   | 99.3%     | 0.99      | 0.99   | 0.99     |
 | KNN                 | 84.3%     | 0.86      | 0.84   | 0.84     |
 
+---
+
+## Acknowledgements
+We would like to express our sincere gratitude to our course instructor for ARTI406 – Machine Learning, for their invaluable guidance, constructive feedback, and continuous support throughout the development of this project.
+
+We also extend our appreciation to our classmates and my team members in the course for their collaborative spirit, insightful discussions, and encouragement, which greatly contributed to the quality of our work.
+
+Finally, we are thankful to Imam Abdulrahman Bin Faisal University for providing the learning environment and resources that enabled us to successfully complete this project.
